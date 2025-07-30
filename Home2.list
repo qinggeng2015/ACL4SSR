@@ -1,0 +1,11 @@
+
+# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
+DOMAIN-SUFFIX,acl4.ssr
+
+
+# 自定义域名
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,files.pythonhosted.org
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,jellyfin.org
