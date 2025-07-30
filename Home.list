@@ -1,11 +1,1 @@
 
-# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
-DOMAIN-SUFFIX,acl4.ssr
-
-
-# 自定义域名
-DOMAIN-SUFFIX,yklove.cn
-DOMAIN-SUFFIX,m-team.cc
-DST-PORT,1-79
-DST-PORT,81-442
-DST-PORT,444-65535
