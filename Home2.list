@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,files.pythonhosted.org
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,brew.sh
 
 # github
 DOMAIN-SUFFIX,github.com
