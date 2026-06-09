@@ -10,8 +10,8 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-ruleset=🏠 自定义1,https://raw.githubusercontent.com/qinggeng2015/ACL4SSR/main/Home.list
-ruleset=🏠 自定义2,https://raw.githubusercontent.com/qinggeng2015/ACL4SSR/main/Home2.list
+ruleset=🏠 自定义1,https://raw.githubusercontent.com/qinggeng2015/ACL4SSR/main/Home.list,600
+ruleset=🏠 自定义2,https://raw.githubusercontent.com/qinggeng2015/ACL4SSR/main/Home2.list,600
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list

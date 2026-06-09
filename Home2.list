@@ -2,14 +2,41 @@
 # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
 DOMAIN-SUFFIX,acl4.ssr
 
-
 # 自定义域名
-DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,files.pythonhosted.org
-DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,debian.org
+
+# github
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,fastlydns.net
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+
+# Docker / Docker Hub
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,dhi.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ghcr.io
+
+# Container Registries
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,pkg.dev
+DOMAIN-SUFFIX,k8s.io
+DOMAIN-SUFFIX,ecr.aws
+DOMAIN-SUFFIX,azurecr.io
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,nvcr.io
+DOMAIN-SUFFIX,lscr.io
+
+# Node / npm Official
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN-SUFFIX,pnpm.io
