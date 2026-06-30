@@ -41,3 +41,5 @@ DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,pnpm.io
+
+DOMAIN-SUFFIX,futunn.com
